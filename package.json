@@ -1,0 +1,17 @@
+{
+  "name": "@dyrkow/eslint-plugin-import-sort",
+  "version": "0.1.0",
+  "description": "Eslint plugins for sort imports by length",
+  "main": "index.js",
+  "repository": "git@github.com:dyrkow/eslint-plugin-import-sort.git",
+  "author": "dyrkow <webworkdeveloper@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@dyrkow/editor-config": "^1.0.0",
+    "@dyrkow/eslint-config": "^1.0.5",
+    "eslint": "^8.56.0"
+  },
+  "dependencies": {
+    "@dyrkow/prettier-config": "^1.0.0"
+  }
+}
